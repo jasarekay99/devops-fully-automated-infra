@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "vamsi-chunduru"
+    default = "jjtech-keypair-ec2-virginia"
 }
 
 # variable "vpc_id" {
